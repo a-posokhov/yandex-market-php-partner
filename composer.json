@@ -9,7 +9,7 @@
     "php": ">=5.6",
     "ext-curl": "*",
     "ext-json": "*",
-    "a-posokhov/yandex-market-php-common": "1.*.*"
+    "a-posokhov/yandex-market-php-common": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0",
